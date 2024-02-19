@@ -1,7 +1,7 @@
 <div align="center">
 	<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="100"/>
 	<h3>deekshant</h3>
-	<code>Technology Enthusiast  • Back End Developer</code> <br /><br />
+	<code>Technology Enthusiast  • Software Developer</code> <br /><br />
 	Hi, my name is Mitalo and I'm a Brazilian programmer.
 	<br />
 	with Laravel & PHP related technologies.
